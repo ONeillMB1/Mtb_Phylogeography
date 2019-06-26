@@ -1,0 +1,13 @@
+	Eastern_Asia	Central_Asia	Western_Asia	Southern_Asia	South_Eastern_Asia	Southern_Europe	Western_Europe	Eastern_Europe	Eastern_Africa	Western_Africa	Southern_Africa	Micronesia
+Central_Asia	0.983											
+Western_Asia	1.01	0.892										
+Southern_Asia	0.985	0.57	0.888									
+South_Eastern_Asia	3.157	0.98	0.995	1.031								
+Southern_Europe	1.009	1.006	1.015	1.017	0.481							
+Western_Europe	0.998	0.991	1.024	1.007	1.053	0.986						
+Eastern_Europe	0.989	1.215	1.005	0.696	0.697	1	1					
+Eastern_Africa	0.855	0.994	1.03	2.245	0.897	0.914	0.99	1.692				
+Western_Africa	1.04	1.012	0.98	1.021	0.975	0.959	1.007	0.863	1.185			
+Southern_Africa	1	0.955	0.996	0.994	0.87	0.996	0.976	1.003	1.169	1.011		
+Micronesia	0.957	0.995	0.988	1.005	0.341	1.002	0.976	0.994	1.004	0.996	1.014	
+Melanesia	0.976	0.986	0.972	0.979	0.966	0.499	0.996	0.975	0.878	1.019	0.998	1.014
